@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="D:/Users/Engin/Documents/Code/练习1/练习1/练习1.vcxproj" Id="f57c83da-b84c-44fd-b395-7913744435c8" />
+  <Project Path="long/long.vcxproj" Id="46b395d9-e356-4c4e-95fc-360d49f47c4f" />
+  <Project Path="mice_run/mice_run.vcxproj" Id="30051033-0c7e-44ba-9195-2eddad502d65" />
+  <Project Path="name address/name address.vcxproj" Id="5e477ca0-4511-406c-8b9d-dad2e8535852" />
+  <Project Path="year/year.vcxproj" Id="13230771-50b1-4fe6-abbd-e8380bde2a34" />
+</Solution>
