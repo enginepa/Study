@@ -6,10 +6,10 @@ int main() {
 	using namespace std;
 
 	double age;
-	cout << "ÇëÊäÈëÄãµÄÄêÁä£º";
+	cout << "è¯·è¾“å…¥ä½ çš„å¹´é¾„ï¼š";
 	cin >> age;
 	double month;
 	month = age * 12;
-	cout << "ÄãµÄÄêÁä°üº¬¶àÉÙ¸öÔÂ£º" << month;
+	cout << "ä½ çš„å¹´é¾„åŒ…å«å¤šå°‘ä¸ªæœˆï¼š" << month;
 	return 0;
 }

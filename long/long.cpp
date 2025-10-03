@@ -8,6 +8,6 @@ int main() {
     cout << "Enter a long: ";
     cin >> long_num;
     ma = long_num * 220;
-    cout << "Âë = " << ma << endl;
+    cout << "ç  = " << ma << endl;
     return 0;
 }
